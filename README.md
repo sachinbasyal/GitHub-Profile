@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Fullstack Software Development.
 - 📫 Reach me at sachin.basyal (skype)
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: Am' the one less than two ;)
+- ⚡ Fun fact: Am' de 1 < 2 ;)
 
 <!---
 sachinbasyal/sachinbasyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
