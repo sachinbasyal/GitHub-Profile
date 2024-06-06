@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Fullstack Software Development.
 - 📫 Reach me at sachin.basyal (skype)
-- 😄 Pronouns: He/His/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Am' de 1 < 2 ;)
 
 <!---
